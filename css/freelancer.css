@@ -1,0 +1,191 @@
+header{
+  background-color: #323b4a;
+  color: white;  
+  line-height: 80px;  
+}
+
+h3{
+  font-weight: 900;
+}
+/*menu*/
+.menu1 nav{
+  text-align: right;
+}
+
+.menu1 a{
+  text-align: none;
+  font-weight: 900;
+  color: white;
+  padding: 0px 8px;
+}
+
+.menu1 .active,.menu1 nav a:hover{
+  background-color: #282f3b;
+  padding: 8px 8px;
+  text-decoration: none;
+  color: #3dc091;
+}
+
+.navbar{
+  margin-bottom: 0px;
+}
+
+/*superstar*/
+.super-star{
+  background-color: #3dc091;
+  text-align: center;
+  color: white;
+  padding: 4% 0%;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight: 900;
+}
+
+/*logo*/
+.logo{
+  padding: 0px 42%;
+}
+
+.logo i {
+  padding-top: 15px;
+}
+
+.super-star .logo hr, .about .logo hr{
+  border: 2px solid white;
+}
+
+/*portfolio*/
+.portfolio {
+  text-align: center;
+  padding: 4% 0%;
+}
+
+.portfolio .logo hr, .contact .logo hr{
+  border: 2px solid #323b4a;
+}
+
+.portfolio img{
+  width: 100%;
+}
+
+/*about*/
+.about-main{
+  background-color: #3dc091;
+  text-align: center;
+  padding: 4% 10%;
+  color: white;
+}
+
+.about-main .btn-default{
+  background-color: #3dc091;
+  border-color: white;
+  color: #323b4a;
+}
+
+/*contact*/
+.contact{
+  padding: 4% 20%;
+  text-align: center;
+}
+
+.contact input, .contact textarea, form .form-control{
+  border-color: transparent;
+}
+
+form hr{
+  margin: 0px;
+}
+
+form .form-group{
+  margin: 0px 3px;  
+}
+
+.contact .btn-default{
+  background-color: #3dc091;
+  border-color: white;
+  color: white;
+  margin-left: 15px;
+}
+
+.social{
+  text-align: center;
+  color: white;
+  background-color: #323b4a;
+  padding: 4% 0%;
+}
+
+.social span{
+  color: #3dc091;
+}
+
+.social i{
+  margin: 5px;
+  border: 2px solid white;
+  border-radius: 100%;
+  padding: 5px 8px;
+}
+
+.social h5{
+  font-weight: 900;
+}
+/*footer*/
+footer{
+  text-align: center;
+  background-color: #282f3b;
+  color: white;
+  padding: 1% 0%;
+}
+
+.pd-0{
+  padding: 0px;
+}
+
+.mg-2{
+  margin-bottom: 2%;
+}
+
+/********************************************************/
+/*About*/
+.about{
+  background-color: #3dc091;
+  text-align: center;
+  color: white;
+  padding: 4% 0%;
+}
+
+.about img{
+  width: 20%;
+}
+
+.description, .iam{
+  padding: 4% 0%;
+}
+/********************************************************/
+/*Blog*/
+.thoughts{
+  background-color: #3dc091;
+  text-align: center;
+  color: white;
+  padding: 4% 0%;
+}
+
+.blog{
+padding: 4% 10%;
+
+}
+
+.blog h4{
+  color: #3dc091;
+  text-transform: uppercase;
+}
+
+.blog img{
+  width: 100%;
+}
+
+.pagination{
+  background-color: #3dc091;
+}
+
+
